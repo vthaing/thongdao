@@ -217,7 +217,7 @@ class Post_Layout extends Base_View {
 		$meta_before = get_theme_mod( 'neve_post_cover_meta_before_title', false );
 
 		echo '<div class="' . esc_attr( implode( ' ', $main_class ) ) . '" ' . $cover_style . '>'; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
-		echo '<div class="nv-overlay"></div>';
+		echo '<div class="nv-overlay" style="background: url(/wp-content/uploads/2021/08/14-Sen-trang-1.jpg) no-repeat fixed top left/cover; opacity: 90%"></div>';
 		echo $container_mode === 'contained' ? '<div class="' . esc_attr( implode( ' ', $container_class ) ) . '">' : '';
 
 		echo '<div class="' . esc_attr( implode( ' ', $title_meta_wrap_classes ) ) . '">';
