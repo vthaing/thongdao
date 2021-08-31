@@ -1,0 +1,15 @@
+[27/Aug/2021:09:43:30] (I): WordPress Instance Info:
+[27/Aug/2021:09:43:30] (I): Home URL : https://thongdao.com
+[27/Aug/2021:09:43:30] (I): Site URL : https://thongdao.com
+[27/Aug/2021:09:43:30] (I): WordPress Version : 5.8
+[27/Aug/2021:09:43:30] (I): Onboarding Version : 1.1.16
+[27/Aug/2021:09:43:30] (I): Multisite : No
+[27/Aug/2021:09:43:30] (I): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.0
+[27/Aug/2021:09:43:30] (I): PHP Version : 7.4.0
+[27/Aug/2021:09:43:30] (I): HTTPS : Yes
+[27/Aug/2021:09:43:30] (I): PHP Max Execution Time : 120
+[27/Aug/2021:09:43:30] (I): PHP Max Input Vars : 2500
+[27/Aug/2021:09:43:30] (I): Max Upload Size : 8388608
+[27/Aug/2021:09:43:30] (I): Plugins:
+[27/Aug/2021:09:43:30] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.9 (ThemeIsle)
+[27/Aug/2021:09:43:30] (I): [PLUGIN] Templates Patterns Collection : v1.1.16 (ThemeIsle)
